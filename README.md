@@ -1,6 +1,7 @@
 # ThinkDataStructures
 
 LaTeX source and supporting code for *Think Data Structures: Algorithms and Information Retrieval in Java*
+Exercise
 
 
 Data structures and algorithms are among the most important inventions
